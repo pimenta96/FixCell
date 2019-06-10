@@ -165,7 +165,7 @@ nav ul li ul li:hover {
 /* Background color change on Hover */
 
 .menu li.active a {
-    color: #db1478;
+    color: #0663A9;
 }
 
 /* Hide Dropdowns by Default
@@ -203,7 +203,7 @@ nav ul.menu li ul li a {
 }
 
 nav ul.menu li ul li a:hover {
-    color: #db1478;
+    color: #0663A9;
 	background:transparent;
 }
 
@@ -446,7 +446,7 @@ li > a:only-child:after {
 }
 
 a.read-more {
-    background: #db1478;
+    background: #0663A9;
     color: #fff;
     padding: 0.8em 3em;
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.15);
@@ -475,7 +475,7 @@ a.read-more {
 
 .middle-right h6 {
     font-size: 1em;
-    color:#db1478;
+    color:#0663A9;
     font-weight: 400;
     letter-spacing: 2px;
 }
@@ -565,7 +565,7 @@ h3.tittle {
     line-height: 1.7em;
 }
 .about-text-grid a {
-    background: #db1478;
+    background: #0663A9;
     padding: 15px 30px;
     display: inline-block;
     color: #fff;
@@ -578,7 +578,7 @@ h3.tittle {
 /*-- //banner --*/
 /* middle */
 .middle-info {
-    background:#db1478;
+    background:#0663A9;
     
 }
 .middle-info p{
@@ -672,7 +672,7 @@ text-align: center;
 .box a {
     padding: 16px 19px;
     display: inline-block;
-    background: #db1478;
+    background: #0663A9;
     border-radius: 55%;
     color: #ffffff;
     outline: none;
@@ -749,12 +749,12 @@ border:none;
 }
 .agile-link-bnr1 {
     padding: 12px 40px;
-    color: #db1478;
+    color: #0663A9;
     font-weight: 400;
     letter-spacing: 1px;
     font-size: 1.1em;
     background: none;
-    border: 1px solid #db1478;
+    border: 1px solid #0663A9;
     text-transform: capitalize;
 }
 /*-- features --*/
@@ -789,7 +789,7 @@ border:none;
 }
 .banner-bottom span.fa {
     font-size: 30px;
-	color: #db1478;
+	color: #0663A9;
 }
 .inner-info h4 {
     text-transform: uppercase;
@@ -849,7 +849,7 @@ p.sub-test {
 .testi_grid h5 {
     font-size: 1em;
     text-transform: uppercase;
-    color: #db1478;
+    color: #0663A9;
     margin: 1em 0 0em 0;
     font-weight: 600;
 }
@@ -893,7 +893,7 @@ p.sub-test {
     background-size: cover;
 }
 .about-right.mt-lg-0.mt-4 {
-    background: #db1478;
+    background: #0663A9;
     padding: 7em 10em;
 }
 .row.about-main {
@@ -974,11 +974,11 @@ p.sub-test {
     color: #707579;
 }
 .contact-style-w3ls p span.fa {
-    color: #db1478;
+    color: #0663A9;
     width: 25px;
 }
 .contact_left_grid button.btn {
-    background: #db1478;
+    background: #0663A9;
     color: #fff;
     font-size: 16px;
     font-weight: 600;
@@ -1011,7 +1011,7 @@ p.sub-test {
 }
 
 .cpy-right p a {
-    color: #db1478;
+    color: #0663A9;
 }
 
 .cpy-right p a:hover {
