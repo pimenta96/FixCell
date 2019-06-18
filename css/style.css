@@ -436,7 +436,7 @@ li > a:only-child:after {
     color: #fff;
     line-height: 1.5em;
     text-shadow: 0 1px 2px rgba(0, 0, 0, 0.37);
-    text-transform: capitalize;
+    /* text-transform: capitalize; */
     letter-spacing: 5px;
 }
 
@@ -485,9 +485,8 @@ h3.tittle {
     font-size: 2.5em;
     letter-spacing: 2px;
     color: #292a2b;
-	font-weight:600;
-	line-height: 1.5em;
-    text-transform: capitalize;
+    font-weight:600;
+    line-height: 1.5em;
 }
 /*-- //heading --*/
 
@@ -519,7 +518,7 @@ h3.tittle {
     color: #ffc80a;
     margin: 2em 0 0em 0;
     letter-spacing: 2px;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
 }
 
 .list-group-image {
@@ -634,9 +633,9 @@ h3.tittle1 {
     font-size: 2.5em;
     letter-spacing: 2px;
     color: #fff;
-	font-weight:600;
+	  font-weight:600;
     line-height: 1.5em;
-    text-transform: capitalize;
+    /* text-transform: capitalize; */
 }
 /*--video-- */
 .button span {
@@ -872,7 +871,7 @@ p.sub-test {
 .collection-w3layouts h4 {
     font-size: 25px;
     color: #000000;
-    text-transform: capitalize;
+    /* text-transform: capitalize; */
     font-weight: bold;
 }
 /*-- middle-section --*/
@@ -892,7 +891,7 @@ p.sub-test {
     -ms-background-size: cover;
     background-size: cover;
 }
-.about-right.mt-lg-0.mt-4 {
+.about-right {
     background: #e46425;
     padding: 7em 10em;
 }
